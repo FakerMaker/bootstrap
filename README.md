@@ -7,7 +7,7 @@
 <h3 align="center">Bootstrap</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+FUCK THE SYSTEM 
   <br>
   <a href="https://getbootstrap.com/docs/4.3/"><strong>Fuck the system »</strong></a>
   <br>
